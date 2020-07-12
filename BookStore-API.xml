@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStore-API</name>
+    </assembly>
+    <members>
+        <member name="T:BookStore_API.Controllers.HomeController">
+            <summary>
+            This is a test API Controller
+            </summary>
+        </member>
+        <member name="M:BookStore_API.Controllers.HomeController.Get">
+            <summary>
+            Gets values
+            </summary>
+        </member>
+        <member name="M:BookStore_API.Controllers.HomeController.Get(System.Int32)">
+            <summary>
+            GET a Value 
+            </summary>
+        </member>
+        <member name="M:BookStore_API.Controllers.HomeController.Post(System.String)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:BookStore_API.Controllers.HomeController.Put(System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:BookStore_API.Controllers.HomeController.Delete(System.Int32)">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
