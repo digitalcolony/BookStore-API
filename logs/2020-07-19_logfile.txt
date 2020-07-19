@@ -1,0 +1,40 @@
+2020-07-19 12:11:16.5771 INFO Attempted Get All Authors
+2020-07-19 12:11:18.8807 INFO Successfully got all Authors
+2020-07-19 12:12:54.2591 INFO Attempted Get All Authors
+2020-07-19 12:12:54.3953 INFO Successfully got all Authors
+2020-07-19 12:14:26.7172 INFO Attempted Get All Authors
+2020-07-19 12:14:43.1335 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-07-19 12:37:01.5488 INFO Attempted Get Author 2
+2020-07-19 12:37:04.0019 WARN Author with id 2 was not found
+2020-07-19 14:12:41.5298 INFO Attempted to Create Author
+2020-07-19 14:12:41.7492 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-07-19 14:20:06.8094 INFO Attempted to Create Author
+2020-07-19 14:20:08.5273 INFO Successfully created Author
+2020-07-19 14:32:14.5273 INFO Attempted to Create Author
+2020-07-19 14:32:14.7115 INFO Successfully created Author
+2020-07-19 14:59:17.4366 INFO Attempted to Update Author
+2020-07-19 14:59:17.4973 WARN Empty request was submitted for Update Author 0
+2020-07-19 15:00:41.9745 INFO Attempted to Update Author
+2020-07-19 15:00:41.9745 WARN Empty request was submitted for Update Author 0
+2020-07-19 15:01:57.0748 INFO Attempted to Update Author
+2020-07-19 15:01:57.1241 WARN Empty request was submitted for Update Author 0
+2020-07-19 15:10:32.3728 INFO Attempted to Update Author
+2020-07-19 15:10:34.8939 INFO Successfully updated Author 1
+2020-07-19 15:12:38.7509 INFO Attempted Get All Authors
+2020-07-19 15:12:39.4311 INFO Successfully got all Authors
+2020-07-19 15:12:47.4006 INFO Attempted Get Author 1
+2020-07-19 15:12:47.6719 INFO Successully got Author 1
+2020-07-19 15:22:53.4360 INFO Attempted to Delete Author
+2020-07-19 15:22:55.6112 INFO Successfully deleted Author 2
+2020-07-19 15:23:39.2002 INFO Attempted Get All Authors
+2020-07-19 15:23:39.4810 INFO Successfully got all Authors
+2020-07-19 15:23:47.9645 INFO Attempted Get Author 2
+2020-07-19 15:23:48.0144 WARN Author with id 2 was not found
+2020-07-19 15:39:22.2220 INFO Attempted to Update Author
+2020-07-19 15:39:22.3015 WARN Empty request was submitted for Update Author 11
+2020-07-19 15:40:15.3081 INFO Attempted to Update Author
+2020-07-19 15:40:17.3091 WARN Author Not Found 11
