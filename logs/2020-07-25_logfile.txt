@@ -1,0 +1,19 @@
+2020-07-25 15:39:31.4230 INFO Authors - GetAuthors: Attempted call
+2020-07-25 15:39:33.3479 INFO Authors - GetAuthors: Successful
+2020-07-25 15:46:18.4712 INFO Books - GetBooks: Attempted call
+2020-07-25 15:46:20.8728 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-07-25 15:46:38.8424 INFO Books - GetBooks: Attempted call
+2020-07-25 15:46:39.0389 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-07-25 15:52:25.3302 INFO Books - GetBooks: Attempted call
+2020-07-25 15:52:26.5462 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-07-25 15:53:07.4893 INFO Books - GetBooks: Attempted call
+2020-07-25 15:53:09.1796 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-07-25 16:02:14.9548 INFO Books - GetBooks: Attempted call
+2020-07-25 16:02:16.7297 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-07-25 16:07:44.8146 INFO Books - GetBooks: Attempted call
+2020-07-25 16:11:49.0654 INFO Books - Update: Update Attempted for 2
+2020-07-25 16:11:49.2606 INFO Books - Update: Successfully updated
+2020-07-25 17:26:28.9399 INFO Books - GetBooks: Attempted call
+2020-07-25 17:27:11.5165 INFO Books - Delete: Delete Attempted call for 2
+2020-07-25 17:27:11.9773 INFO Books - Delete: Successfully deleted
+2020-07-25 17:27:21.0717 INFO Books - GetBooks: Attempted call
