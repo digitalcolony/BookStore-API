@@ -1,0 +1,47 @@
+2020-07-26 11:36:34.6233 INFO Users - Login: Login Attempt from user customer23 
+2020-07-26 11:36:34.8606 INFO Users - Login: Failed Authentication
+2020-07-26 12:23:56.5366 INFO Users - Login: Login Attempt from user customer2 
+2020-07-26 12:23:56.8245 INFO Users - Login: Failed Authentication
+2020-07-26 12:24:24.3758 INFO Users - Login: Login Attempt from user customer 
+2020-07-26 12:24:24.4271 INFO Users - Login: Failed Authentication
+2020-07-26 12:24:55.0414 INFO Users - Login: Login Attempt from user customer 
+2020-07-26 12:26:46.4276 INFO Users - Login: Failed Authentication
+2020-07-26 16:39:04.3277 INFO Books - GetBooks: Attempted call
+2020-07-26 16:39:18.2113 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 16:39:18.2634 INFO Users - Login: Failed Authentication
+2020-07-26 16:44:07.8888 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 16:44:08.0515 INFO Users - Login: Failed Authentication
+2020-07-26 16:45:10.1706 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 16:45:10.3190 INFO Users - Login: Failed Authentication
+2020-07-26 16:45:46.4156 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 16:45:46.4494 INFO Users - Login: Failed Authentication
+2020-07-26 16:45:49.0369 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 16:45:49.0586 INFO Users - Login: Failed Authentication
+2020-07-26 16:47:27.8541 INFO Users - Login: Login Attempt from user customer 
+2020-07-26 16:47:28.0615 INFO Users - Login: Successfully Authemticated
+2020-07-26 16:48:05.0339 INFO Users - Login: Login Attempt from user customer2 
+2020-07-26 16:48:05.0815 INFO Users - Login: Successfully Authemticated
+2020-07-26 16:48:27.9102 INFO Users - Login: Login Attempt from user customer2 
+2020-07-26 16:48:27.9935 INFO Users - Login: Successfully Authemticated
+2020-07-26 16:48:37.8153 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 16:48:37.8503 INFO Users - Login: Successfully Authemticated
+2020-07-26 16:50:03.6712 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 16:50:04.0257 INFO Users - Login: Successfully Authemticated
+2020-07-26 17:16:31.2170 INFO Authors - GetAuthors: Attempted call
+2020-07-26 17:16:31.3767 INFO Authors - GetAuthors: Successful
+2020-07-26 17:16:59.6953 INFO Authors - GetAuthor: Attempted for 1
+2020-07-26 17:16:59.7918 INFO Authors - GetAuthor : Successful for 1
+2020-07-26 17:18:05.7902 INFO Users - Login: Login Attempt from user customer 
+2020-07-26 17:18:05.9234 INFO Users - Login: Successfully Authemticated
+2020-07-26 17:20:33.5910 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 17:20:33.6783 INFO Users - Login: Successfully Authemticated
+2020-07-26 17:23:07.7702 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 17:23:07.8180 INFO Users - Login: Successfully Authemticated
+2020-07-26 17:29:00.9985 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 17:29:01.1920 INFO Users - Login: Successfully Authemticated
+2020-07-26 17:31:36.7951 INFO Authors - Create: Attempted call
+2020-07-26 17:31:37.1100 INFO Authors - Create: Successfully created
+2020-07-26 17:48:41.2039 INFO Users - Login: Login Attempt from user admin 
+2020-07-26 17:48:41.5454 INFO Users - Login: Successfully Authemticated
+2020-07-26 17:49:11.2215 INFO Authors - Create: Attempted call
+2020-07-26 17:49:11.4234 INFO Authors - Create: Successfully created
