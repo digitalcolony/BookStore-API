@@ -1,0 +1,14 @@
+2020-08-02 12:01:45.4078 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-02 12:01:45.4605 INFO Users - Register: PasswordRequiresNonAlphanumeric Passwords must have at least one non alphanumeric character.
+2020-08-02 12:01:45.4605 INFO Users - Register: PasswordRequiresDigit Passwords must have at least one digit ('0'-'9').
+2020-08-02 12:01:45.4686 INFO Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-08-02 12:01:45.4686 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-02 12:02:44.8953 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-02 12:02:44.8953 INFO Users - Register: PasswordRequiresNonAlphanumeric Passwords must have at least one non alphanumeric character.
+2020-08-02 12:02:44.8953 INFO Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-08-02 12:02:44.9073 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-02 12:02:55.9846 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-02 12:02:55.9846 INFO Users - Register: PasswordRequiresNonAlphanumeric Passwords must have at least one non alphanumeric character.
+2020-08-02 12:02:55.9846 INFO Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-08-02 12:02:55.9846 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-02 12:03:42.1139 INFO Users - Register: Registration Attempt for taco@taco.com 
