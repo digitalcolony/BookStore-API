@@ -1,0 +1,21 @@
+2020-08-06 15:51:27.5586 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-06 15:51:27.6073 INFO Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-08-06 15:51:27.6073 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-06 15:54:39.9477 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-06 15:54:39.9977 INFO Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-08-06 15:54:39.9977 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-06 15:56:44.3220 INFO Users - Register: Registration Attempt for taco@taco2.com 
+2020-08-06 15:56:44.3544 INFO Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-08-06 15:56:44.3544 ERROR Users - Register: taco@taco2.com User Registration Failed
+2020-08-06 15:58:59.8067 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-06 15:58:59.9052 INFO Users - Register: DuplicateUserName User name 'taco@taco.com' is already taken.
+2020-08-06 15:58:59.9052 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-06 16:00:13.7913 INFO Users - Register: Registration Attempt for user@example.com 
+2020-08-06 16:00:52.1489 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-06 16:00:52.1870 INFO Users - Register: DuplicateUserName User name 'taco@taco.com' is already taken.
+2020-08-06 16:00:52.1870 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-06 16:01:24.3089 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-06 16:01:24.3321 INFO Users - Register: DuplicateUserName User name 'taco@taco.com' is already taken.
+2020-08-06 16:01:24.3321 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-06 16:03:27.3842 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-06 16:05:46.9619 INFO Users - Register: Registration Attempt for taco111@taco.com 
