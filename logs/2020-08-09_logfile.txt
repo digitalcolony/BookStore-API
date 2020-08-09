@@ -1,0 +1,42 @@
+2020-08-09 11:07:39.5375 INFO Users - Register: Registration Attempt for dog@dog.com 
+2020-08-09 11:12:16.1771 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:12:16.4630 INFO Users - Login: Successfully Authemticated
+2020-08-09 11:13:26.5336 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:13:26.9129 INFO Users - Login: Successfully Authemticated
+2020-08-09 11:16:49.4507 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:16:49.5110 INFO Users - Login: Successfully Authemticated
+2020-08-09 11:18:19.5557 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:19.5949 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:22.6456 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:22.6790 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:23.0526 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:23.0803 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:23.3507 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:23.3834 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:23.5710 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:23.6037 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:23.7824 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:23.8175 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:23.9922 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:24.0486 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:24.1926 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:24.2523 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:24.3827 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:24.4320 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:24.5723 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:24.6336 INFO Users - Login: Failed Authentication
+2020-08-09 11:18:24.7742 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:18:24.8288 INFO Users - Login: Failed Authentication
+2020-08-09 11:19:52.5601 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:19:52.5932 INFO Users - Login: Failed Authentication
+2020-08-09 11:20:45.9426 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:20:46.1190 INFO Users - Login: Failed Authentication
+2020-08-09 11:34:29.4705 INFO Users - Login: Login Attempt from user dog@dog.com 
+2020-08-09 11:34:29.8406 INFO Users - Login: Successfully Authemticated
+2020-08-09 11:35:16.6980 INFO Users - Register: Registration Attempt for taco@taco.com 
+2020-08-09 11:35:16.7282 INFO Users - Register: DuplicateUserName User name 'taco@taco.com' is already taken.
+2020-08-09 11:35:16.7282 ERROR Users - Register: taco@taco.com User Registration Failed
+2020-08-09 13:41:45.7682 INFO Users - Register: Registration Attempt for cat@cat.com 
+2020-08-09 13:47:29.0653 INFO Users - Register: Registration Attempt for goat@goat.com 
+2020-08-09 13:47:47.0708 INFO Users - Login: Login Attempt from user goat@goat.com 
+2020-08-09 13:47:47.2005 INFO Users - Login: Successfully Authemticated

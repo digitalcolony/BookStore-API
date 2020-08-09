@@ -57,7 +57,8 @@ namespace BookStore_API.Controllers
                     return InternalError($"{location}: {username} User Registration Failed");
                 }
 
-                return Ok(new { result.Succeeded });
+                await _userManager.AddToRoleAsync(user, "Customer");
+                return Created("login", new { result.Succeeded });
             }
             catch (Exception e)
             {
