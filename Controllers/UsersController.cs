@@ -57,7 +57,7 @@ namespace BookStore_API.Controllers
                     return InternalError($"{location}: {username} User Registration Failed");
                 }
 
-                await _userManager.AddToRoleAsync(user, "Customer");
+                await _userManager.AddToRoleAsync(user, "Administrator");
                 return Created("login", new { result.Succeeded });
             }
             catch (Exception e)
@@ -119,7 +119,7 @@ namespace BookStore_API.Controllers
             claims.AddRange(roles.Select(r => new Claim(ClaimsIdentity.DefaultRoleClaimType, r)));
 
             var token = new JwtSecurityToken(_config["Jwt:Issuer"], _config["Jwt:Issuer"],
-                claims, null, expires: DateTime.Now.AddMinutes(5),
+                claims, null, expires: DateTime.Now.AddHours(5),
                 signingCredentials: credentials
                 );
 

@@ -1,0 +1,4 @@
+2020-08-13 08:59:52.0636 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-13 08:59:52.2574 INFO Users - Login: Successfully Authemticated
+2020-08-13 09:00:04.0802 INFO Authors - GetAuthors: Attempted call
+2020-08-13 09:00:04.1392 INFO Authors - GetAuthors: Successful

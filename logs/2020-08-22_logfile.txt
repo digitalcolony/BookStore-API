@@ -1,0 +1,121 @@
+2020-08-22 10:02:07.4094 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-22 10:02:07.5256 INFO Users - Login: Failed Authentication
+2020-08-22 10:02:11.4199 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-22 10:02:11.4474 INFO Users - Login: Failed Authentication
+2020-08-22 10:03:10.9091 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-22 10:03:10.9337 INFO Users - Login: Failed Authentication
+2020-08-22 10:03:13.3431 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-22 10:03:13.3700 INFO Users - Login: Failed Authentication
+2020-08-22 10:04:23.7040 INFO Users - Register: Registration Attempt for abc@abc.com 
+2020-08-22 10:05:23.3419 INFO Users - Login: Login Attempt from user abc@abc.com 
+2020-08-22 10:05:23.4687 INFO Users - Login: Successfully Authemticated
+2020-08-22 10:05:27.3659 INFO Authors - GetAuthors: Attempted call
+2020-08-22 10:05:27.4095 INFO Authors - GetAuthors: Successful
+2020-08-22 10:05:30.4855 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 10:05:30.5118 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 10:07:00.6203 INFO Authors - GetAuthors: Attempted call
+2020-08-22 10:07:00.6686 INFO Authors - GetAuthors: Successful
+2020-08-22 10:07:02.5659 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 10:07:02.5659 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 10:07:25.5356 INFO Authors - GetAuthors: Attempted call
+2020-08-22 10:07:25.6996 INFO Authors - GetAuthors: Successful
+2020-08-22 10:07:27.8870 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 10:07:27.9299 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 10:14:05.7866 INFO Authors - GetAuthors: Attempted call
+2020-08-22 10:14:05.9584 INFO Authors - GetAuthors: Successful
+2020-08-22 10:14:07.9754 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 10:14:08.0191 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 10:34:01.8351 INFO Users - Register: Registration Attempt for john.purchaser@abcwatertreatment.com 
+2020-08-22 10:34:01.8803 INFO Users - Register: PasswordRequiresNonAlphanumeric Passwords must have at least one non alphanumeric character.
+2020-08-22 10:34:01.8803 INFO Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-08-22 10:34:01.8803 ERROR Users - Register: john.purchaser@abcwatertreatment.com User Registration Failed
+2020-08-22 10:35:20.4592 INFO Users - Register: Registration Attempt for admin@abc.com 
+2020-08-22 10:35:58.0090 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 10:35:58.1382 INFO Users - Login: Successfully Authemticated
+2020-08-22 10:36:01.7357 INFO Authors - GetAuthors: Attempted call
+2020-08-22 10:36:01.7794 INFO Authors - GetAuthors: Successful
+2020-08-22 10:36:03.4274 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 10:36:03.4488 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 10:36:08.0491 INFO Authors - Update: Attempted call
+2020-08-22 10:36:08.0946 INFO Authors - Update: Successfully updated for 1
+2020-08-22 10:36:15.8157 INFO Authors - GetAuthors: Attempted call
+2020-08-22 10:36:15.8157 INFO Authors - GetAuthors: Successful
+2020-08-22 10:36:18.1084 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 10:36:18.1236 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 12:01:53.9564 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 12:01:54.1449 INFO Users - Login: Successfully Authemticated
+2020-08-22 12:01:56.5574 INFO Authors - GetAuthors: Attempted call
+2020-08-22 12:01:56.6156 INFO Authors - GetAuthors: Successful
+2020-08-22 12:02:16.8233 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 12:02:16.8615 INFO Users - Login: Successfully Authemticated
+2020-08-22 12:02:33.4058 INFO Authors - GetAuthors: Attempted call
+2020-08-22 12:02:33.4211 INFO Authors - GetAuthors: Successful
+2020-08-22 12:20:37.4345 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 12:20:37.4890 INFO Users - Login: Successfully Authemticated
+2020-08-22 12:20:39.9567 INFO Authors - GetAuthors: Attempted call
+2020-08-22 12:20:39.9567 INFO Authors - GetAuthors: Successful
+2020-08-22 12:20:41.6366 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 12:20:41.6629 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 14:08:09.6608 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 14:08:09.8325 INFO Users - Login: Successfully Authemticated
+2020-08-22 14:08:12.0637 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:08:12.1278 INFO Authors - GetAuthors: Successful
+2020-08-22 14:08:21.6437 INFO Authors - GetAuthor: Attempted for 4
+2020-08-22 14:08:21.6806 INFO Authors - GetAuthor : Successful for 4
+2020-08-22 14:08:24.3855 INFO Authors - Delete: Attempted call
+2020-08-22 14:08:24.5081 INFO Authors - Delete: Successful for 4
+2020-08-22 14:08:24.5512 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:08:24.5512 INFO Authors - GetAuthors: Successful
+2020-08-22 14:08:56.1996 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 14:08:56.2153 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 14:09:30.5961 INFO Users - Login: Login Attempt from user abc@abc.com 
+2020-08-22 14:09:30.6319 INFO Users - Login: Successfully Authemticated
+2020-08-22 14:09:32.8741 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:09:32.8874 INFO Authors - GetAuthors: Successful
+2020-08-22 14:09:35.1436 INFO Authors - GetAuthor: Attempted for 3
+2020-08-22 14:09:35.1438 INFO Authors - GetAuthor : Successful for 3
+2020-08-22 14:09:41.5719 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:09:41.5719 INFO Authors - GetAuthors: Successful
+2020-08-22 14:28:36.8477 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 14:28:37.0662 INFO Users - Login: Successfully Authemticated
+2020-08-22 14:28:39.6348 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:28:39.7068 INFO Authors - GetAuthors: Successful
+2020-08-22 14:28:56.4791 INFO Authors - Create: Attempted call
+2020-08-22 14:28:56.6445 INFO Authors - Create: Successfully created
+2020-08-22 14:28:56.6967 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:28:56.7086 INFO Authors - GetAuthors: Successful
+2020-08-22 14:29:30.8327 INFO Authors - Create: Attempted call
+2020-08-22 14:29:30.8468 INFO Authors - Create: Successfully created
+2020-08-22 14:29:30.9043 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:29:30.9101 INFO Authors - GetAuthors: Successful
+2020-08-22 14:48:24.1912 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:48:24.3395 INFO Authors - GetAuthors: Successful
+2020-08-22 14:48:44.8295 INFO Users - Login: Login Attempt from user abc@abc.com 
+2020-08-22 14:48:44.9434 INFO Users - Login: Successfully Authemticated
+2020-08-22 14:48:47.4183 INFO Authors - GetAuthors: Attempted call
+2020-08-22 14:48:47.4183 INFO Authors - GetAuthors: Successful
+2020-08-22 17:26:10.3165 INFO Authors - GetAuthors: Attempted call
+2020-08-22 17:26:10.4999 INFO Authors - GetAuthors: Successful
+2020-08-22 17:26:13.5056 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 17:26:13.5648 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 17:26:15.3858 INFO Authors - GetAuthors: Attempted call
+2020-08-22 17:26:15.3858 INFO Authors - GetAuthors: Successful
+2020-08-22 17:26:16.5589 INFO Authors - GetAuthor: Attempted for 3
+2020-08-22 17:26:16.5722 INFO Authors - GetAuthor : Successful for 3
+2020-08-22 17:26:17.8616 INFO Authors - GetAuthors: Attempted call
+2020-08-22 17:26:17.8707 INFO Authors - GetAuthors: Successful
+2020-08-22 17:26:27.7744 INFO Authors - GetAuthors: Attempted call
+2020-08-22 17:26:27.7744 INFO Authors - GetAuthors: Successful
+2020-08-22 17:26:29.8080 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 17:26:29.8200 INFO Authors - GetAuthor : Successful for 1
+2020-08-22 17:28:06.5206 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 17:28:06.6190 INFO Users - Login: Successfully Authemticated
+2020-08-22 17:30:14.1053 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-22 17:30:14.1518 INFO Users - Login: Successfully Authemticated
+2020-08-22 17:30:33.9965 INFO Books - Create: Create attempted
+2020-08-22 17:30:34.2447 INFO Books - Create: Successfully created
+2020-08-22 17:30:34.2447 INFO Books - Create: BookStore_API.Data.Book
+2020-08-22 17:30:45.9035 INFO Authors - GetAuthors: Attempted call
+2020-08-22 17:30:45.9333 INFO Authors - GetAuthors: Successful
+2020-08-22 17:30:49.4649 INFO Authors - GetAuthor: Attempted for 1
+2020-08-22 17:30:49.4738 INFO Authors - GetAuthor : Successful for 1

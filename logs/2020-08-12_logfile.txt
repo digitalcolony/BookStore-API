@@ -1,0 +1,3 @@
+2020-08-12 14:03:07.4689 INFO Users - Register: Registration Attempt for test100@test.com 
+2020-08-12 14:03:25.4965 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-12 14:03:25.6290 INFO Users - Login: Successfully Authemticated

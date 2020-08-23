@@ -1,0 +1,58 @@
+2020-08-15 10:32:01.9419 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 10:32:02.1699 INFO Users - Login: Successfully Authemticated
+2020-08-15 10:32:04.7357 INFO Authors - GetAuthors: Attempted call
+2020-08-15 10:32:04.8033 INFO Authors - GetAuthors: Successful
+2020-08-15 10:39:50.8929 INFO Authors - GetAuthors: Attempted call
+2020-08-15 10:39:51.0492 INFO Authors - GetAuthors: Successful
+2020-08-15 11:45:04.4887 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 11:45:04.6665 INFO Users - Login: Successfully Authemticated
+2020-08-15 11:45:06.3081 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:45:06.3590 INFO Authors - GetAuthors: Successful
+2020-08-15 11:45:41.2730 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:45:41.2927 INFO Authors - GetAuthors: Successful
+2020-08-15 11:46:09.0359 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:46:09.2829 INFO Authors - GetAuthors: Successful
+2020-08-15 11:48:06.9711 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 11:48:07.1603 INFO Users - Login: Successfully Authemticated
+2020-08-15 11:48:09.3331 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:48:09.3857 INFO Authors - GetAuthors: Successful
+2020-08-15 11:48:15.0250 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:48:15.0250 INFO Authors - GetAuthors: Successful
+2020-08-15 11:48:20.8503 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:48:20.8503 INFO Authors - GetAuthors: Successful
+2020-08-15 11:48:23.2527 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:48:23.2527 INFO Authors - GetAuthors: Successful
+2020-08-15 11:48:41.6123 INFO Authors - GetAuthors: Attempted call
+2020-08-15 11:48:41.7634 INFO Authors - GetAuthors: Successful
+2020-08-15 12:20:18.8779 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 12:20:19.0504 INFO Users - Login: Successfully Authemticated
+2020-08-15 12:20:20.8995 INFO Authors - GetAuthors: Attempted call
+2020-08-15 12:20:20.9556 INFO Authors - GetAuthors: Successful
+2020-08-15 12:23:52.5833 INFO Authors - GetAuthors: Attempted call
+2020-08-15 12:23:52.7251 INFO Authors - GetAuthors: Successful
+2020-08-15 14:27:14.4873 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 14:27:14.7456 INFO Users - Login: Successfully Authemticated
+2020-08-15 14:27:17.0159 INFO Authors - GetAuthors: Attempted call
+2020-08-15 14:27:17.0676 INFO Authors - GetAuthors: Successful
+2020-08-15 14:27:18.9394 INFO Authors - GetAuthor: Attempted for 1
+2020-08-15 14:27:18.9717 INFO Authors - GetAuthor : Successful for 1
+2020-08-15 14:27:21.3066 INFO Authors - GetAuthors: Attempted call
+2020-08-15 14:27:21.3066 INFO Authors - GetAuthors: Successful
+2020-08-15 14:27:22.5888 INFO Authors - GetAuthor: Attempted for 3
+2020-08-15 14:27:22.5971 INFO Authors - GetAuthor : Successful for 3
+2020-08-15 14:27:23.8926 INFO Authors - GetAuthors: Attempted call
+2020-08-15 14:27:23.8928 INFO Authors - GetAuthors: Successful
+2020-08-15 14:27:24.9085 INFO Authors - GetAuthor: Attempted for 4
+2020-08-15 14:27:24.9188 INFO Authors - GetAuthor : Successful for 4
+2020-08-15 14:27:26.6794 INFO Authors - GetAuthors: Attempted call
+2020-08-15 14:27:26.6794 INFO Authors - GetAuthors: Successful
+2020-08-15 14:34:57.2060 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 14:34:57.2706 INFO Users - Login: Successfully Authemticated
+2020-08-15 14:41:16.2235 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 14:41:16.2720 INFO Users - Login: Successfully Authemticated
+2020-08-15 14:43:59.6447 INFO Users - Login: Login Attempt from user test100@test.com 
+2020-08-15 14:43:59.8178 INFO Users - Login: Successfully Authemticated
+2020-08-15 14:44:02.0974 INFO Authors - GetAuthors: Attempted call
+2020-08-15 14:44:02.1665 INFO Authors - GetAuthors: Successful
+2020-08-15 14:44:05.0923 INFO Authors - GetAuthor: Attempted for 1
+2020-08-15 14:44:05.1230 INFO Authors - GetAuthor : Successful for 1
