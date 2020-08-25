@@ -1,0 +1,70 @@
+2020-08-24 10:27:40.4274 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-24 10:27:40.6587 INFO Users - Login: Successfully Authemticated
+2020-08-24 10:27:44.6388 INFO Books - GetBooks: Attempted call
+2020-08-24 10:27:47.3880 INFO Authors - GetAuthors: Attempted call
+2020-08-24 10:27:47.4517 INFO Authors - GetAuthors: Successful
+2020-08-24 10:28:15.2027 INFO Books - Create: Create attempted
+2020-08-24 10:28:15.3743 INFO Books - Create: Successfully created
+2020-08-24 10:28:15.3743 INFO Books - Create: BookStore_API.Data.Book
+2020-08-24 10:28:15.4243 INFO Books - GetBooks: Attempted call
+2020-08-24 10:28:29.7028 INFO Books - GetBooks: Attempted call
+2020-08-24 10:30:02.6354 INFO Books - GetBook: Attempted call for id: 4
+2020-08-24 10:30:02.6768 INFO Books - GetBook: Successful call for id: 4
+2020-08-24 10:30:28.6404 INFO Books - GetBooks: Attempted call
+2020-08-24 10:30:30.0372 INFO Authors - GetAuthors: Attempted call
+2020-08-24 10:30:30.0572 INFO Authors - GetAuthors: Successful
+2020-08-24 10:30:54.2637 INFO Books - Create: Create attempted
+2020-08-24 10:30:54.2786 INFO Books - Create: Successfully created
+2020-08-24 10:30:54.2786 INFO Books - Create: BookStore_API.Data.Book
+2020-08-24 10:30:54.3248 INFO Books - GetBooks: Attempted call
+2020-08-24 10:31:05.1419 INFO Books - GetBook: Attempted call for id: 5
+2020-08-24 10:31:05.1620 INFO Books - GetBook: Successful call for id: 5
+2020-08-24 10:53:26.8187 INFO Books - GetBooks: Attempted call
+2020-08-24 10:53:29.9066 INFO Books - GetBook: Attempted call for id: 4
+2020-08-24 10:53:29.9461 INFO Books - GetBook: Successful call for id: 4
+2020-08-24 10:53:29.9713 INFO Authors - GetAuthors: Attempted call
+2020-08-24 10:53:30.0083 INFO Authors - GetAuthors: Successful
+2020-08-24 10:53:39.6691 INFO Books - Update: Update Attempted for 4
+2020-08-24 10:53:39.8123 INFO Books - Update: Successfully updated
+2020-08-24 10:53:39.8538 INFO Books - GetBooks: Attempted call
+2020-08-24 10:53:43.8162 INFO Books - GetBook: Attempted call for id: 3
+2020-08-24 10:53:43.8336 INFO Books - GetBook: Successful call for id: 3
+2020-08-24 10:53:43.8696 INFO Authors - GetAuthors: Attempted call
+2020-08-24 10:53:43.8832 INFO Authors - GetAuthors: Successful
+2020-08-24 10:53:54.2935 INFO Books - Update: Update Attempted for 3
+2020-08-24 10:53:54.3063 INFO Books - Update: Successfully updated
+2020-08-24 10:53:54.3495 INFO Books - GetBooks: Attempted call
+2020-08-24 10:53:56.2037 INFO Books - GetBook: Attempted call for id: 5
+2020-08-24 10:53:56.2241 INFO Books - GetBook: Successful call for id: 5
+2020-08-24 10:53:57.5475 INFO Books - GetBooks: Attempted call
+2020-08-24 10:53:59.0563 INFO Books - GetBook: Attempted call for id: 5
+2020-08-24 10:53:59.0670 INFO Books - GetBook: Successful call for id: 5
+2020-08-24 10:53:59.0867 INFO Authors - GetAuthors: Attempted call
+2020-08-24 10:53:59.0867 INFO Authors - GetAuthors: Successful
+2020-08-24 10:54:12.6660 INFO Books - Update: Update Attempted for 5
+2020-08-24 10:54:12.6815 INFO Books - Update: Successfully updated
+2020-08-24 10:54:12.7420 INFO Books - GetBooks: Attempted call
+2020-08-24 10:54:15.7936 INFO Books - GetBook: Attempted call for id: 3
+2020-08-24 10:54:15.8015 INFO Books - GetBook: Successful call for id: 3
+2020-08-24 10:54:15.8328 INFO Authors - GetAuthors: Attempted call
+2020-08-24 10:54:15.8328 INFO Authors - GetAuthors: Successful
+2020-08-24 10:54:21.9855 INFO Books - GetBooks: Attempted call
+2020-08-24 10:54:23.3527 INFO Books - GetBook: Attempted call for id: 3
+2020-08-24 10:54:23.3527 INFO Books - GetBook: Successful call for id: 3
+2020-08-24 14:30:50.8782 INFO Books - GetBooks: Attempted call
+2020-08-24 14:30:58.8028 INFO Books - GetBook: Attempted call for id: 5
+2020-08-24 14:30:58.8554 INFO Books - GetBook: Successful call for id: 5
+2020-08-24 14:31:02.5641 INFO Books - Delete: Delete Attempted call for 5
+2020-08-24 14:31:02.7137 INFO Books - Delete: Successfully deleted
+2020-08-24 14:31:02.7591 INFO Books - GetBooks: Attempted call
+2020-08-24 14:31:07.6448 INFO Books - GetBook: Attempted call for id: 3
+2020-08-24 14:31:07.6448 INFO Books - GetBook: Successful call for id: 3
+2020-08-24 14:31:09.4006 INFO Books - GetBooks: Attempted call
+2020-08-24 18:10:27.5043 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-24 18:10:27.7020 INFO Users - Login: Successfully Authemticated
+2020-08-24 18:10:30.8794 INFO Authors - GetAuthors: Attempted call
+2020-08-24 18:10:31.0183 INFO Authors - GetAuthors: Successful
+2020-08-24 18:10:49.4330 INFO Authors - Create: Attempted call
+2020-08-24 18:10:49.6011 INFO Authors - Create: Successfully created
+2020-08-24 18:10:49.6754 INFO Authors - GetAuthors: Attempted call
+2020-08-24 18:10:49.6754 INFO Authors - GetAuthors: Successful

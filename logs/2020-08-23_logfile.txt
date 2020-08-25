@@ -1,0 +1,13 @@
+2020-08-23 10:31:08.8989 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-23 10:31:09.3267 INFO Users - Login: Successfully Authemticated
+2020-08-23 10:31:13.2306 INFO Books - GetBooks: Attempted call
+2020-08-23 10:41:19.9442 INFO Books - GetBooks: Attempted call
+2020-08-23 13:30:56.7216 INFO Books - GetBooks: Attempted call
+2020-08-23 13:31:00.0392 INFO Books - GetBook: Attempted call for id: 3
+2020-08-23 13:31:00.0758 INFO Books - GetBook: Successful call for id: 3
+2020-08-23 13:31:29.3130 INFO Books - GetBooks: Attempted call
+2020-08-23 13:32:56.3423 INFO Books - GetBook: Attempted call for id: 3
+2020-08-23 13:32:56.3844 INFO Books - GetBook: Successful call for id: 3
+2020-08-23 13:33:26.3787 INFO Books - GetBooks: Attempted call
+2020-08-23 13:33:29.8955 INFO Books - GetBook: Attempted call for id: 3
+2020-08-23 13:33:29.9363 INFO Books - GetBook: Successful call for id: 3
