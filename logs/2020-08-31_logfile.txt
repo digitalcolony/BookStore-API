@@ -1,0 +1,31 @@
+2020-08-31 13:10:02.5004 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-31 13:10:02.6827 INFO Users - Login: Successfully Authemticated
+2020-08-31 13:10:05.1649 INFO Books - GetBooks: Attempted call
+2020-08-31 13:10:07.9761 INFO Books - GetBook: Attempted call for id: 3
+2020-08-31 13:10:07.9983 INFO Books - GetBook: Successful call for id: 3
+2020-08-31 13:10:08.0462 INFO Authors - GetAuthors: Attempted call
+2020-08-31 13:10:08.0846 INFO Authors - GetAuthors: Successful
+2020-08-31 13:10:26.8821 INFO Books - Update: Update Attempted for 3
+2020-08-31 13:10:27.0510 INFO Books - Update: Successfully updated
+2020-08-31 13:10:27.1212 INFO Books - GetBooks: Attempted call
+2020-08-31 13:10:35.4571 INFO Books - GetBook: Attempted call for id: 3
+2020-08-31 13:10:35.4745 INFO Books - GetBook: Successful call for id: 3
+2020-08-31 13:10:55.0937 INFO Books - GetBooks: Attempted call
+2020-08-31 13:10:59.5389 INFO Books - GetBook: Attempted call for id: 3
+2020-08-31 13:10:59.5553 INFO Books - GetBook: Successful call for id: 3
+2020-08-31 13:10:59.9685 INFO Authors - GetAuthors: Attempted call
+2020-08-31 13:10:59.9685 INFO Authors - GetAuthors: Successful
+2020-08-31 13:11:03.4513 INFO Books - GetBooks: Attempted call
+2020-08-31 13:31:40.3114 INFO Books - GetBooks: Attempted call
+2020-08-31 13:31:40.6872 ERROR Books - GetBooks: The filename, directory name, or volume label syntax is incorrect. : 'C:\Users\digit\source\repos\BookStore-API\uploads\C:\Users\digit\source\repos\BookStore-API\uploads\0117a64449314ea497357fc61bba570e.jpeg' - 
+2020-08-31 13:31:49.7765 INFO Authors - GetAuthors: Attempted call
+2020-08-31 13:31:49.8540 INFO Authors - GetAuthors: Successful
+2020-08-31 13:31:52.4499 INFO Books - GetBooks: Attempted call
+2020-08-31 13:31:52.5060 ERROR Books - GetBooks: The filename, directory name, or volume label syntax is incorrect. : 'C:\Users\digit\source\repos\BookStore-API\uploads\C:\Users\digit\source\repos\BookStore-API\uploads\0117a64449314ea497357fc61bba570e.jpeg' - 
+2020-08-31 13:32:24.6006 INFO Users - Login: Login Attempt from user abc@abc.com 
+2020-08-31 13:32:24.7205 INFO Users - Login: Successfully Authemticated
+2020-08-31 13:32:26.2252 INFO Books - GetBooks: Attempted call
+2020-08-31 13:32:26.2702 ERROR Books - GetBooks: The filename, directory name, or volume label syntax is incorrect. : 'C:\Users\digit\source\repos\BookStore-API\uploads\C:\Users\digit\source\repos\BookStore-API\uploads\0117a64449314ea497357fc61bba570e.jpeg' - 
+2020-08-31 13:33:29.7177 INFO Books - GetBooks: Attempted call
+2020-08-31 13:33:29.9955 ERROR Books - GetBooks: The filename, directory name, or volume label syntax is incorrect. : 'C:\Users\digit\source\repos\BookStore-API\uploads\C:\Users\digit\source\repos\BookStore-API\uploads\0117a64449314ea497357fc61bba570e.jpeg' - 
+2020-08-31 13:39:44.2497 INFO Books - GetBooks: Attempted call

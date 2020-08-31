@@ -1,0 +1,30 @@
+2020-08-30 15:01:31.2634 INFO Users - Login: Login Attempt from user admin@abc.com 
+2020-08-30 15:01:31.5411 INFO Users - Login: Successfully Authemticated
+2020-08-30 15:01:35.1993 INFO Authors - GetAuthors: Attempted call
+2020-08-30 15:01:35.3311 INFO Authors - GetAuthors: Successful
+2020-08-30 15:02:03.2615 INFO Authors - GetAuthor: Attempted for 1
+2020-08-30 15:02:03.3049 INFO Authors - GetAuthor : Successful for 1
+2020-08-30 15:02:10.1783 INFO Authors - GetAuthors: Attempted call
+2020-08-30 15:02:10.1975 INFO Authors - GetAuthors: Successful
+2020-08-30 15:02:12.6867 INFO Authors - GetAuthor: Attempted for 1
+2020-08-30 15:02:12.6867 INFO Authors - GetAuthor : Successful for 1
+2020-08-30 15:02:16.9892 INFO Authors - Update: Attempted call
+2020-08-30 15:02:17.2351 INFO Authors - Update: Successfully updated for 1
+2020-08-30 15:02:17.3854 INFO Authors - GetAuthors: Attempted call
+2020-08-30 15:02:17.3933 INFO Authors - GetAuthors: Successful
+2020-08-30 15:02:20.0823 INFO Authors - GetAuthor: Attempted for 1
+2020-08-30 15:02:20.0974 INFO Authors - GetAuthor : Successful for 1
+2020-08-30 19:39:54.7173 INFO Authors - GetAuthors: Attempted call
+2020-08-30 19:39:54.9718 INFO Authors - GetAuthors: Successful
+2020-08-30 19:39:57.2531 INFO Books - GetBooks: Attempted call
+2020-08-30 19:39:59.0296 INFO Authors - GetAuthors: Attempted call
+2020-08-30 19:39:59.0296 INFO Authors - GetAuthors: Successful
+2020-08-30 19:40:28.3137 INFO Books - Create: Create attempted
+2020-08-30 19:40:28.5843 INFO Books - Create: Successfully created
+2020-08-30 19:40:28.5843 INFO Books - Create: BookStore_API.Data.Book
+2020-08-30 19:40:28.7375 INFO Books - GetBooks: Attempted call
+2020-08-30 19:40:34.4828 INFO Books - GetBook: Attempted call for id: 6
+2020-08-30 19:40:34.5028 INFO Books - GetBook: Successful call for id: 6
+2020-08-30 20:00:35.9681 INFO Books - GetBooks: Attempted call
+2020-08-30 20:00:39.8400 INFO Books - GetBook: Attempted call for id: 6
+2020-08-30 20:00:39.8887 INFO Books - GetBook: Successful call for id: 6
